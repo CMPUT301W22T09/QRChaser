@@ -62,6 +62,8 @@ public class BrowseQRActivity extends AppCompatActivity {
     private final String TAG = "Error";
     private FirebaseFirestore db;
 
+    
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
